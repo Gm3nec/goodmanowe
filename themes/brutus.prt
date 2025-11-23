@@ -1,0 +1,22 @@
+/set prt_ntxt=Ccyan
+/set prt_ntxt2=
+/set prt_htxt=
+/set prt_htxt2=BCwhite
+
+/purge setstatusfields
+/def setstatusfields = \
+    /set status_fields=\
+        "  ":2 \
+        prompt:$[strlen(prompt)]: \
+        "  ":2 \
+        "(tells:":7:%prt_ntxt \
+        tellswhileafk:$[strlen(tellswhileafk)]:%prt_htxt2 \
+        ")":2:%prt_ntxt \
+        "(weapon:":8:%prt_ntxt \
+        weapon:$[strlen(weapon)]:%prt_htxt2 \
+        ") ":2:%prt_ntxt \
+        "(leader:":8:%prt_ntxt \
+        tank:$[strlen(tank)]:%prt_htxt2 \
+        ")":1:%prt_ntxt \
+        "":$[strlen(foobar)]%;\
+

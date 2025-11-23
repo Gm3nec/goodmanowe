@@ -1,0 +1,154 @@
+;=-=-=-=-=-=-=-=-= Uzi Settings for %{char} (v.%uziversion) =-=-=-=-=-=-=-=-=-=-=
+
+;;;Common stuff
+/set char=Bohemus
+/set align=Neutral
+/set race=ktv
+/set charclass=Ma/Ma
+/set aura=
+/set autowimpy=0
+/set themetoload=default
+/set wimpylevel=200
+/set autofocus=
+/set autoassist=
+/set ass_group=
+/set ass_tank=
+/set assist=1
+/set autofight=0
+/set autoexp=
+/set autowell=
+/set berserktryonce=
+/set autodeathdance=
+/set autoberserk=
+/set gameassist=
+/set priest=0
+/set animist=0
+/set magician=2
+/set fighter=0
+/set rogue=0
+/set warlock=0
+/set nightblade=0
+/set templar=0
+/set autosd=
+/set recallwhenungrouped=
+/set panicrecallcmd=tell zazel summon
+/set runninguzi=1.10
+/set gager=1
+/set usedrecalls=4
+
+;;;Spells
+/set spellcaster=
+/set damage=pb
+/set autochange=1
+/set focusmana1== 120
+/set focusmana2== 500
+/set hidam=pb
+/set midam=for
+/set sanc_smarts=
+;Hidams
+/set cdam_hienergy=pb
+/set cdam_hifire=hf
+/set cdam_hilight=
+/set cdam_hinormal=pb
+/set cdam_hislayhalforc=
+/set cdam_hislayundead=
+;Midams
+/set cdam_loenergy=for
+/set cdam_lofire=fb
+/set cdam_lonormal=for
+/set cdam_loslayhalforc=
+;Area dams
+/set cdam_areaenergy=pball
+/set cdam_areafire=hst
+/set cdam_areanormal=pball
+
+;;;Weapons
+/set quickdraw=
+/set weapon=chakara
+/set acidslay=horgarian
+/set airslay=winddagger
+/set darkslay=fang
+/set dragonslay=dragontailed
+/set drowelfslay=hailstrike
+/set earthslay=avalanche
+/set electricityslay=forked
+/set elfslay=blood
+/set energyslay=chaotic
+/set fireslay=deathflame
+/set giantslay=halo
+/set halfelfslay=blood
+/set halforcslay=Deathflame
+/set humanslay=parang
+/set iceslay=hailstrike
+/set ironslay=parang
+/set lightslay=godly
+/set magicalslay=chakara
+/set magicslay=godly
+/set mentalslay=psionic
+/set normslay=chakara
+/set orcslay=deathflame
+/set poisonslay=horgarian
+/set pureslay=warhammer
+/set rodentslay=
+/set silverslay=borimar
+/set superlargeslay=
+/set trollslay=deathflame
+/set unlifeslay=infernal
+/set waterslay=poseidon
+/set woodslay=parang
+/set dopromptdamage=
+/set cweap=1
+/set pweap=1
+
+;;;Eq-settings
+/set container=backpack
+/set getfoodcont=
+/set foodcont=
+/set watercont=
+/set getwatercont=
+/set food=
+/set abouteq=sinister
+/set feeteq=boots
+/set shieldeq=sphere
+/set heldeq=silmaril
+
+;;;Misc
+/set botgroup=1
+/set copbot=
+/set revcmd=ask salem true
+/set selfprot=0
+/set strspell=1
+/set solo=0
+/set botall=1
+/set amshield=
+/set aritual=
+/set rite_level=
+/set abmirror=0
+/set amirrorimage=0
+/set affield=0
+/set autoholy=
+/set sanctype=
+/set blessme=
+/set autobuy=1
+/set afkexp=1
+/set afkwell=1
+/set autodep_amount=2900000
+;;;Heal
+/set groupinterval=
+/set wellsumm=0
+/set aheal=0
+/set selfmira=
+/set atmhp=0
+/set miratank=0
+/set thresh=0
+/set groupinterval=
+/set groupbless=0
+/set truetank=0
+/set truegroup=0
+/set gpowgroup=0
+/set atthp=0
+/set atghp=0
+/set atgphp=0
+/set maxgpowcount=0
+/set ghealblind=
+;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

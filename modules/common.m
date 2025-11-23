@@ -14,7 +14,7 @@
     /if ({1} !~ '') \
         /gpcontainer put %*%;\
     /else \
-        /ecko Usage: %htxt2\gc <object> %htxt[ s[croll] | w[eapon] | f[ood] | p[otion] | wa[ter] ] [commands]%;\
+        /ecko Usage: %htxt2\pc <object> %htxt[ s[croll] | w[eapon] | f[ood] | p[otion] | wa[ter] ] [commands]%;\
     /endif
 
 /def gpcontainer = \
